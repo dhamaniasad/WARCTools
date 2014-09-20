@@ -21,3 +21,4 @@ A list of tools related to W(eb)ARC(hives)
 * [WarcReplay](https://github.com/odie5533/WarcReplay) - Creates a proxy that lets you view the contents of a Warc file as though you were browsing the live web
 * [WarcTwistedMITMProxy](https://github.com/odie5533/WarcTwistedMITMProxy) - Web proxy supporting MITM SSL and saving traffic to a Warc file, using the Twisted networking library
 * [vcproxy](https://github.com/kngenie/vcproxy) - a tiny HTTP proxy that archives traffic in WARCs
+* [pywb](https://github.com/ikreymer/pywb) - Python WayBack for web archive replay
