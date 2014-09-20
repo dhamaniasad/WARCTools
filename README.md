@@ -22,3 +22,9 @@ A list of tools related to W(eb)ARC(hives)
 * [WarcTwistedMITMProxy](https://github.com/odie5533/WarcTwistedMITMProxy) - Web proxy supporting MITM SSL and saving traffic to a Warc file, using the Twisted networking library
 * [vcproxy](https://github.com/kngenie/vcproxy) - a tiny HTTP proxy that archives traffic in WARCs
 * [pywb](https://github.com/ikreymer/pywb) - Python WayBack for web archive replay
+* [warc-proxy](https://github.com/alard/warc-proxy) - Serving content from a WARC
+* [megawarc](https://github.com/alard/megawarc) - Nondestructive warc-in-tar to warc conversion
+* [warctozip-service](https://github.com/alard/warctozip-service) - An HTTP-based warc-to-zip converter
+* [warcat](https://github.com/chfoo/warcat) - Tool and library for handling Web ARChive (WARC) files
+* [pylibwarc](https://github.com/odie5533/pylibwarc/) - A Python library for dealing with Web ARChive (WARC) files
+* [wpull](https://github.com/chfoo/wpull) - Wget-compatible web downloader and crawler
