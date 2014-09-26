@@ -29,3 +29,4 @@ A list of tools related to W(eb)ARC(hives)
 * [pylibwarc](https://github.com/odie5533/pylibwarc/) - A Python library for dealing with Web ARChive (WARC) files
 * [wpull](https://github.com/chfoo/wpull) - Wget-compatible web downloader and crawler
 * [warctozip](https://github.com/alard/warctozip) - Convert a warc to a zip with Hanzo warc-tools and warctozip.py
+* [pymiproxy](https://github.com/allfro/pymiproxy) - A small and sweet man-in-the-middle proxy capable of doing HTTP and HTTP over SSL
